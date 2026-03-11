@@ -98,18 +98,21 @@ Agentic AI represents the next shift from passive chat to active, autonomous age
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ### 🟠 AWS: Bedrock AgentCore 
 Focuses on "Agents for Amazon Bedrock" which integrate with internal systems via Action Groups.
+- **Repository:** [aws/bedrock-agentcore-sdk-python](https://github.com/aws/bedrock-agentcore-sdk-python)
 - **Tools:** Knowledge Bases, Action Groups (Lambda), Guardrails.
 - **Key Strength:** Robust orchestration and specialized "Amazon Q" for business workflows.
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-### 🔵 Azure: Azure AI Foundry
+### 🔵 Azure: Azure AI Foundry & Microsoft Agent Framework
 The unified platform for building and deploying high-quality AI agents and assistants (formerly Azure AI Studio).
+- **Repositories:** [Azure/azure-sdk-for-python (azure-ai-agents)](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/ai/azure-ai-agents) | [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
 - **Tools:** Azure AI Agent Service, Copilot Studio, Semantic Kernel integration.
 - **Key Strength:** Enterprise-grade security and deep integration with Microsoft 365 Copilots.
 
 ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ### 🟢 GCP: Gemini AI (Vertex)
 Leveraging Vertex AI Agent Builder and Gemini's reasoning capabilities to build autonomous agents.
+- **Repositories:** [google/adk-python](https://github.com/google/adk-python) | [googleapis/python-aiplatform](https://github.com/googleapis/python-aiplatform)
 - **Tools:** Gemini Models, Data Store, Extensions (APIs), Playbooks.
 - **Key Strength:** Easy "Data-to-Agent" conversion and tight integration with Google Search and Workspace.
 
