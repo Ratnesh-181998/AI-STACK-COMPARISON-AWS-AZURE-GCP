@@ -43,6 +43,7 @@ Welcome to the **AI Stack Comparison** repository! This project provides a compr
 ###  Amazon Web Services (AWS)
 AWS provides a full-stack AI ecosystem designed for enterprise-scale workloads, from raw data handling to real-time inference.
 
+- https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-a2a.html
 - **Data Foundation:** S3 (Storage), Glue (ETL), Redshift (Data Warehouse).
 - **AI/ML Development:** SageMaker (Complete ML lifecycle), Deep Learning AMIs, Bedrock (Foundation Model access).
 - **Generative AI Tools:** Amazon Bedrock (Claude, Llama, Titan models), Bedrock Agents, PartyRock (No-code app builder).
