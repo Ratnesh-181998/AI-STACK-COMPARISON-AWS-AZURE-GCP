@@ -39,7 +39,8 @@ Welcome to the **AI Stack Comparison** repository! This project provides a compr
 
 ## 🏗️ Cloud AI Stack Breakdown
 
-### ☁️ Amazon Web Services (AWS)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+###  Amazon Web Services (AWS)
 AWS provides a full-stack AI ecosystem designed for enterprise-scale workloads, from raw data handling to real-time inference.
 
 - **Data Foundation:** S3 (Storage), Glue (ETL), Redshift (Data Warehouse).
@@ -55,7 +56,8 @@ AWS provides a full-stack AI ecosystem designed for enterprise-scale workloads, 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
-### 🟦 Microsoft Azure
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+###  Microsoft Azure
 Azure is tightly integrated with the Microsoft 365 ecosystem and focuses on enterprise-grade AI, governance, and responsible AI tooling.
 
 - **Data Foundation:** Azure Data Lake, Synapse Analytics, Azure Databricks.
@@ -71,7 +73,8 @@ Azure is tightly integrated with the Microsoft 365 ecosystem and focuses on ente
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
-### 🟩 Google Cloud Platform (GCP)
+![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+###  Google Cloud Platform (GCP)
 GCP is built around data analytics, scalable training, and cutting-edge generative AI through the Vertex AI platform.
 
 - **Data Foundation:** BigQuery, Cloud Storage, Dataform / Dataproc.
@@ -91,16 +94,19 @@ GCP is built around data analytics, scalable training, and cutting-edge generati
 
 Agentic AI represents the next shift from passive chat to active, autonomous agents that can use tools and execute multi-step workflows.
 
-### 🟠 AWS: Bedrock Agents
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🟠 AWS: Bedrock AgentCore 
 Focuses on "Agents for Amazon Bedrock" which integrate with internal systems via Action Groups.
 - **Tools:** Knowledge Bases, Action Groups (Lambda), Guardrails.
 - **Key Strength:** Robust orchestration and specialized "Amazon Q" for business workflows.
 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ### 🔵 Azure: Azure AI Foundry
 The unified platform for building and deploying high-quality AI agents and assistants (formerly Azure AI Studio).
 - **Tools:** Azure AI Agent Service, Copilot Studio, Semantic Kernel integration.
 - **Key Strength:** Enterprise-grade security and deep integration with Microsoft 365 Copilots.
 
+![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ### 🟢 GCP: Gemini AI (Vertex)
 Leveraging Vertex AI Agent Builder and Gemini's reasoning capabilities to build autonomous agents.
 - **Tools:** Gemini Models, Data Store, Extensions (APIs), Playbooks.
@@ -110,12 +116,17 @@ Leveraging Vertex AI Agent Builder and Gemini's reasoning capabilities to build 
 
 ## 📊 Final Comparison (At a Glance)
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+
 | Layer | 🟠 AWS | 🔵 Azure | 🟢 GCP |
 | :--- | :--- | :--- | :--- |
 | **Data** | S3 + Redshift | Data Lake + Synapse | BigQuery |
 | **ML Platform** | SageMaker | Azure ML | Vertex AI |
 | **Gen AI** | Bedrock | Azure OpenAI | Gemini |
-| **Agentic AI** | Bedrock Agents | Azure AI Foundry | Gemini AI (Vertex) |
+| **Agentic AI** | Bedrock AgentCore | Azure AI Foundry | Gemini AI (Vertex) |
 | **Best For** | Enterprise ML at scale | Microsoft ecosystem | Data + GenAI workloads |
 
 <img width="940" height="1029" alt="image" src="https://github.com/user-attachments/assets/f94760af-fdab-4486-8acf-72933a9e9bef" />
