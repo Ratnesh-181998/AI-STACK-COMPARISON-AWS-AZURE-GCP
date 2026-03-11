@@ -34,7 +34,8 @@ Welcome to the **AI Stack Comparison** repository! This project provides a compr
 
 <img width="1200" height="608" alt="image" src="https://github.com/user-attachments/assets/6d01e519-2094-4b16-b513-427789334355" />
 
-<img width="940" height="169" alt="image" src="https://github.com/user-attachments/assets/68b6d6b5-8838-42ed-8ffc-45d47616a12f" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## 🤖 Agentic AI & AI Agents Comparison
 
