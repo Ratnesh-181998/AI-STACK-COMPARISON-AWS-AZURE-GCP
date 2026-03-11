@@ -96,14 +96,14 @@ Focuses on "Agents for Amazon Bedrock" which integrate with internal systems via
 - **Tools:** Knowledge Bases, Action Groups (Lambda), Guardrails.
 - **Key Strength:** Robust orchestration and specialized "Amazon Q" for business workflows.
 
-### 🔵 Azure: Azure AI Agent Service
-A unified platform for building and deploying high-quality AI agents and assistants.
-- **Tools:** Copilot Studio, Semantic Kernel, Azure Functions integration.
+### 🔵 Azure: Azure AI Foundry
+The unified platform for building and deploying high-quality AI agents and assistants (formerly Azure AI Studio).
+- **Tools:** Azure AI Agent Service, Copilot Studio, Semantic Kernel integration.
 - **Key Strength:** Enterprise-grade security and deep integration with Microsoft 365 Copilots.
 
-### 🟢 GCP: Vertex AI Agent Builder
-A low-code platform for building and deploying AI agents using natural language.
-- **Tools:** Data Store, Extensions (APIs), Playbooks.
+### 🟢 GCP: Gemini AI (Vertex)
+Leveraging Vertex AI Agent Builder and Gemini's reasoning capabilities to build autonomous agents.
+- **Tools:** Gemini Models, Data Store, Extensions (APIs), Playbooks.
 - **Key Strength:** Easy "Data-to-Agent" conversion and tight integration with Google Search and Workspace.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
@@ -115,7 +115,7 @@ A low-code platform for building and deploying AI agents using natural language.
 | **Data** | S3 + Redshift | Data Lake + Synapse | BigQuery |
 | **ML Platform** | SageMaker | Azure ML | Vertex AI |
 | **Gen AI** | Bedrock | Azure OpenAI | Gemini |
-| **Agentic AI** | Bedrock Agents | Azure AI Agent Service | Vertex AI Agent Builder |
+| **Agentic AI** | Bedrock Agents | Azure AI Foundry | Gemini AI (Vertex) |
 | **Best For** | Enterprise ML at scale | Microsoft ecosystem | Data + GenAI workloads |
 
 <img width="940" height="1029" alt="image" src="https://github.com/user-attachments/assets/f94760af-fdab-4486-8acf-72933a9e9bef" />
