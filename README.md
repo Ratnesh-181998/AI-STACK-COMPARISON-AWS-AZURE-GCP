@@ -34,6 +34,32 @@ Welcome to the **AI Stack Comparison** repository! This project provides a compr
 
 <img width="1200" height="608" alt="image" src="https://github.com/user-attachments/assets/6d01e519-2094-4b16-b513-427789334355" />
 
+<img width="940" height="169" alt="image" src="https://github.com/user-attachments/assets/68b6d6b5-8838-42ed-8ffc-45d47616a12f" />
+
+## 🤖 Agentic AI & AI Agents Comparison
+
+Agentic AI represents the next shift from passive chat to active, autonomous agents that can use tools and execute multi-step workflows.
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🟠 AWS: Bedrock AgentCore 
+Focuses on "Agents for Amazon Bedrock" which integrate with internal systems via Action Groups.
+- **Repository:** [aws/bedrock-agentcore-sdk-python](https://github.com/aws/bedrock-agentcore-sdk-python)
+- **Tools:** Knowledge Bases, Action Groups (Lambda), Guardrails.
+- **Key Strength:** Robust orchestration and specialized "Amazon Q" for business workflows.
+
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### 🔵 Azure: Azure AI Foundry & Microsoft Agent Framework
+The unified platform for building and deploying high-quality AI agents and assistants (formerly Azure AI Studio).
+- **Repositories:** [Azure/azure-sdk-for-python (azure-ai-agents)](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/ai/azure-ai-agents) | [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+- **Tools:** Azure AI Agent Service, Copilot Studio, Semantic Kernel integration.
+- **Key Strength:** Enterprise-grade security and deep integration with Microsoft 365 Copilots.
+
+![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+### 🟢 GCP: Gemini AI (Vertex)
+Leveraging Vertex AI Agent Builder and Gemini's reasoning capabilities to build autonomous agents.
+- **Repositories:** [google/adk-python](https://github.com/google/adk-python) | [googleapis/python-aiplatform](https://github.com/googleapis/python-aiplatform)
+- **Tools:** Gemini Models, Data Store, Extensions (APIs), Playbooks.
+- **Key Strength:** Easy "Data-to-Agent" conversion and tight integration with Google Search and Workspace.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
@@ -89,32 +115,7 @@ GCP is built around data analytics, scalable training, and cutting-edge generati
 <img width="940" height="1060" alt="image" src="https://github.com/user-attachments/assets/cd8465ad-def1-4bcc-a36a-dc87182cb07d" />
 <img width="940" height="1041" alt="image" src="https://github.com/user-attachments/assets/6b8f2845-86b4-4b89-9153-8a0b5fb1a9cf" />
 
----
 
-## 🤖 Agentic AI & AI Agents Comparison
-
-Agentic AI represents the next shift from passive chat to active, autonomous agents that can use tools and execute multi-step workflows.
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-### 🟠 AWS: Bedrock AgentCore 
-Focuses on "Agents for Amazon Bedrock" which integrate with internal systems via Action Groups.
-- **Repository:** [aws/bedrock-agentcore-sdk-python](https://github.com/aws/bedrock-agentcore-sdk-python)
-- **Tools:** Knowledge Bases, Action Groups (Lambda), Guardrails.
-- **Key Strength:** Robust orchestration and specialized "Amazon Q" for business workflows.
-
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-### 🔵 Azure: Azure AI Foundry & Microsoft Agent Framework
-The unified platform for building and deploying high-quality AI agents and assistants (formerly Azure AI Studio).
-- **Repositories:** [Azure/azure-sdk-for-python (azure-ai-agents)](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/ai/azure-ai-agents) | [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
-- **Tools:** Azure AI Agent Service, Copilot Studio, Semantic Kernel integration.
-- **Key Strength:** Enterprise-grade security and deep integration with Microsoft 365 Copilots.
-
-![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-### 🟢 GCP: Gemini AI (Vertex)
-Leveraging Vertex AI Agent Builder and Gemini's reasoning capabilities to build autonomous agents.
-- **Repositories:** [google/adk-python](https://github.com/google/adk-python) | [googleapis/python-aiplatform](https://github.com/googleapis/python-aiplatform)
-- **Tools:** Gemini Models, Data Store, Extensions (APIs), Playbooks.
-- **Key Strength:** Easy "Data-to-Agent" conversion and tight integration with Google Search and Workspace.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
