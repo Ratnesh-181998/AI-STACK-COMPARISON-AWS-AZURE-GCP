@@ -32,6 +32,7 @@ Welcome to the **AI Stack Comparison** repository! This project provides a compr
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-%230072C6.svg?style=flat-square&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-%234285F4.svg?style=flat-square&logo=google&logoColor=white)
 
+<img width="1200" height="608" alt="image" src="https://github.com/user-attachments/assets/6d01e519-2094-4b16-b513-427789334355" />
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
