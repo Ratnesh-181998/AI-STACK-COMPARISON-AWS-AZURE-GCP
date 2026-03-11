@@ -85,6 +85,27 @@ GCP is built around data analytics, scalable training, and cutting-edge generati
 <img width="940" height="1060" alt="image" src="https://github.com/user-attachments/assets/cd8465ad-def1-4bcc-a36a-dc87182cb07d" />
 <img width="940" height="1041" alt="image" src="https://github.com/user-attachments/assets/6b8f2845-86b4-4b89-9153-8a0b5fb1a9cf" />
 
+---
+
+## 🤖 Agentic AI & AI Agents Comparison
+
+Agentic AI represents the next shift from passive chat to active, autonomous agents that can use tools and execute multi-step workflows.
+
+### 🟠 AWS: Bedrock Agents
+Focuses on "Agents for Amazon Bedrock" which integrate with internal systems via Action Groups.
+- **Tools:** Knowledge Bases, Action Groups (Lambda), Guardrails.
+- **Key Strength:** Robust orchestration and specialized "Amazon Q" for business workflows.
+
+### 🔵 Azure: Azure AI Agent Service
+A unified platform for building and deploying high-quality AI agents and assistants.
+- **Tools:** Copilot Studio, Semantic Kernel, Azure Functions integration.
+- **Key Strength:** Enterprise-grade security and deep integration with Microsoft 365 Copilots.
+
+### 🟢 GCP: Vertex AI Agent Builder
+A low-code platform for building and deploying AI agents using natural language.
+- **Tools:** Data Store, Extensions (APIs), Playbooks.
+- **Key Strength:** Easy "Data-to-Agent" conversion and tight integration with Google Search and Workspace.
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## 📊 Final Comparison (At a Glance)
@@ -94,6 +115,7 @@ GCP is built around data analytics, scalable training, and cutting-edge generati
 | **Data** | S3 + Redshift | Data Lake + Synapse | BigQuery |
 | **ML Platform** | SageMaker | Azure ML | Vertex AI |
 | **Gen AI** | Bedrock | Azure OpenAI | Gemini |
+| **Agentic AI** | Bedrock Agents | Azure AI Agent Service | Vertex AI Agent Builder |
 | **Best For** | Enterprise ML at scale | Microsoft ecosystem | Data + GenAI workloads |
 
 <img width="940" height="1029" alt="image" src="https://github.com/user-attachments/assets/f94760af-fdab-4486-8acf-72933a9e9bef" />
