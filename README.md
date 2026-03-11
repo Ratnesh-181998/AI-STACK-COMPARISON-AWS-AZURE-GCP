@@ -15,6 +15,25 @@ Welcome to the **AI Stack Comparison** repository! This project provides a compr
 <img width="940" height="169" alt="image" src="https://github.com/user-attachments/assets/68b6d6b5-8838-42ed-8ffc-45d47616a12f" />
 
 
+## 🛠️ Tech Stack
+
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 🤖 AI & Machine Learning
+![SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure%20Machine%20Learning-%230072C6.svg?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+
+### 🧠 Generative AI
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-%230072C6.svg?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-%234285F4.svg?style=flat-square&logo=google&logoColor=white)
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## 🏗️ Cloud AI Stack Breakdown
