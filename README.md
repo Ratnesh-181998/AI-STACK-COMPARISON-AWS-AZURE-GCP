@@ -48,6 +48,16 @@ Focuses on "Agents for Amazon Bedrock" which integrate with internal systems via
 - **Tools:** Knowledge Bases, Action Groups (Lambda), Guardrails.
 - **Key Strength:** Robust orchestration and specialized "Amazon Q" for business workflows.
 
+<img width="2278" height="626" alt="image" src="https://github.com/user-attachments/assets/b0377a12-af44-4329-bcac-b75133dc160f" />
+<img width="2048" height="1160" alt="image" src="https://github.com/user-attachments/assets/375e56d9-ecfa-4685-9345-21171644a1f5" />
+<img width="2045" height="1156" alt="image" src="https://github.com/user-attachments/assets/ce5c6c55-775a-4e0e-889c-9bc3d7e68536" />
+<img width="2052" height="1152" alt="image" src="https://github.com/user-attachments/assets/e6e7a74f-c1a6-4f8e-ba01-6f3fc2503236" />
+<img width="2041" height="1162" alt="image" src="https://github.com/user-attachments/assets/7eafd694-5079-4c60-a3af-f8bd0d84e7ee" />
+<img width="2042" height="1154" alt="image" src="https://github.com/user-attachments/assets/60627ee1-8231-4c8a-b906-ef8702fd917d" />
+<img width="2051" height="1151" alt="image" src="https://github.com/user-attachments/assets/a7dea5e0-01d3-4f48-9a76-405647121ebc" />
+
+
+
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ### 🔵 Azure: Azure AI Foundry & Microsoft Agent Framework
 The unified platform for building and deploying high-quality AI agents and assistants (formerly Azure AI Studio).
@@ -69,6 +79,7 @@ Leveraging Vertex AI Agent Builder and Gemini's reasoning capabilities to build 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ###  Amazon Web Services (AWS)
 AWS provides a full-stack AI ecosystem designed for enterprise-scale workloads, from raw data handling to real-time inference.
+<img width="1486" height="621" alt="image" src="https://github.com/user-attachments/assets/4ed409b7-0367-4156-ae61-f727d80b6e2d" />
 
 - https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-a2a.html
 - **Data Foundation:** S3 (Storage), Glue (ETL), Redshift (Data Warehouse).
@@ -88,6 +99,8 @@ AWS provides a full-stack AI ecosystem designed for enterprise-scale workloads, 
 ###  Microsoft Azure
 Azure is tightly integrated with the Microsoft 365 ecosystem and focuses on enterprise-grade AI, governance, and responsible AI tooling.
 
+<img width="1572" height="684" alt="image" src="https://github.com/user-attachments/assets/0dbbfa2f-386d-4dfb-852b-e4806af93abf" />
+
 - **Data Foundation:** Azure Data Lake, Synapse Analytics, Azure Databricks.
 - **AI/ML Development:** Azure Machine Learning Studio, Prompt Flow, Responsible AI Dashboard.
 - **Generative AI Tools:** Azure OpenAI (GPT-4, GPT-4o, GPT-4.1, DALL·E), Copilot Studio, Azure AI Foundry.
@@ -104,6 +117,8 @@ Azure is tightly integrated with the Microsoft 365 ecosystem and focuses on ente
 ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ###  Google Cloud Platform (GCP)
 GCP is built around data analytics, scalable training, and cutting-edge generative AI through the Vertex AI platform.
+
+<img width="2103" height="906" alt="image" src="https://github.com/user-attachments/assets/5cbc9fbe-5bcf-49f9-a53f-0d716f6a5001" />
 
 - **Data Foundation:** BigQuery, Cloud Storage, Dataform / Dataproc.
 - **AI/ML Development:** Vertex AI (Unified ML platform), AutoML, Notebook Instances.
