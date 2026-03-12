@@ -47,7 +47,9 @@ Focuses on "Agents for Amazon Bedrock" which integrate with internal systems via
 - **Repository:** [aws/bedrock-agentcore-sdk-python](https://github.com/aws/bedrock-agentcore-sdk-python)
 - **Tools:** Knowledge Bases, Action Groups (Lambda), Guardrails.
 - **Key Strength:** Robust orchestration and specialized "Amazon Q" for business workflows.
-
+- About Amazon Bedrock AgentCore : Amazon Bedrock AgentCore is a modular set of capabilities to build, deploy and operate production-grade agents securely and scalably using any framework and model.
+- AgentCore capabilities are optimized to work together or individually, giving you the flexibility to integrate with any open-source frameworks.
+  
 <img width="2278" height="626" alt="image" src="https://github.com/user-attachments/assets/b0377a12-af44-4329-bcac-b75133dc160f" />
 <img width="2048" height="1160" alt="image" src="https://github.com/user-attachments/assets/375e56d9-ecfa-4685-9345-21171644a1f5" />
 <img width="2045" height="1156" alt="image" src="https://github.com/user-attachments/assets/ce5c6c55-775a-4e0e-889c-9bc3d7e68536" />
