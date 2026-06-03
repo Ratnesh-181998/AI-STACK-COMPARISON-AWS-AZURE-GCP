@@ -1,3 +1,4 @@
+<img width="1757" height="1473" alt="Screenshot 2026-06-02 222111" src="https://github.com/user-attachments/assets/208defbf-51a0-4fca-a7ac-98ec93042720" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 <div align="center">
@@ -155,6 +156,7 @@ GCP is built around data analytics, scalable training, and cutting-edge generati
 | Speech                    | Audio-to-text & text-to-audio conversion                                           | Convert between speech and text and find the best configuration for your audio                                          |
 | Vertex AI Vision          | Custom image models and computer vision                                            | Classify images into millions of predefined categories, detect objects and faces, and build custom vision models        |
 
+<img width="1757" height="1473" alt="Screenshot 2026-06-02 222111" src="https://github.com/user-attachments/assets/a20c69c8-3fb1-49af-ace8-6b6f0557eb47" />
 
 ---
 
