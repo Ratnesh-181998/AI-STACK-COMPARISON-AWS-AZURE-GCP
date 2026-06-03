@@ -119,7 +119,10 @@ Azure is tightly integrated with the Microsoft 365 ecosystem and focuses on ente
 
 ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ###  Google Cloud Platform (GCP)
-GCP is built around data analytics, scalable training, and cutting-edge generative AI through the Vertex AI platform.
+
+- All products Explore products from Google Cloud and recommended partners at a glance : https://github.com/Ratnesh-181998/Google-Cloud-Services
+  
+- GCP is built around data analytics, scalable training, and cutting-edge generative AI through the Vertex AI platform.
 
 <img width="2103" height="906" alt="image" src="https://github.com/user-attachments/assets/5cbc9fbe-5bcf-49f9-a53f-0d716f6a5001" />
 
