@@ -133,7 +133,30 @@ GCP is built around data analytics, scalable training, and cutting-edge generati
 <img width="940" height="1060" alt="image" src="https://github.com/user-attachments/assets/cd8465ad-def1-4bcc-a36a-dc87182cb07d" />
 <img width="940" height="1041" alt="image" src="https://github.com/user-attachments/assets/6b8f2845-86b4-4b89-9153-8a0b5fb1a9cf" />
 
+---
 
+# Artificial Intelligence
+
+**Leverage machine learning products on a trusted platform**
+
+| Name                      | Description                                                                        | Details                                                                                                                 |
+| ------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Translation               | Language detection and translation                                                 | Translate API using the words, phrases, and idioms that matter most to you                                              |
+| Document AI               | Document analysis, classification, and searches                                    | Turn unstructured documents into actionable data to increase efficiency, simplify processes, and make better decisions  |
+| AI Commerce Search        | Data-driven solutions for commerce                                                 | Infuse your digital properties with Google-quality recommendations and search results                                   |
+| Talent Solution           | Job search with ML                                                                 | Create, read, update, and delete job postings, as well as search jobs based on keywords and filters                     |
+| AI Edge Portal            | On-device ML model testing                                                         | Simplify and accelerate on-device ML model benchmarking across diverse, real Android devices directly from Google Cloud |
+| Agent Platform            | One platform to build, deploy, scale, and optimize sophisticated agents and models | Unified, fully managed AI development environment with Agent Studio and access to 200+ foundational models              |
+| AI Applications           | Platform for search, recommendations, and conversation apps                        | Build search, recommendation, and conversational applications using Google's foundation models                          |
+| CCAI Platform             | Contact Center as a Service (CCaaS)                                                | Improve customer service and increase contact center operational efficiency                                             |
+| Discovery Engine          | Cross-industry discovery solutions                                                 | Infuse your digital properties with Google-quality recommendations and search solutions                                 |
+| Gemini Enterprise         | Generative AI tool suite for knowledge work                                        | Suite of generative AI tools from Google designed to supercharge knowledge work                                         |
+| NotebookLM for Enterprise | Enterprise knowledge assistant                                                     | Understand complex information and extract value from organizational knowledge resources using Gemini 1.5               |
+| Speech                    | Audio-to-text & text-to-audio conversion                                           | Convert between speech and text and find the best configuration for your audio                                          |
+| Vertex AI Vision          | Custom image models and computer vision                                            | Classify images into millions of predefined categories, detect objects and faces, and build custom vision models        |
+
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
