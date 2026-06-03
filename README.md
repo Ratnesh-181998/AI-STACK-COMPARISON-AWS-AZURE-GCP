@@ -1,4 +1,4 @@
-<img width="1757" height="1473" alt="Screenshot 2026-06-02 222111" src="https://github.com/user-attachments/assets/208defbf-51a0-4fca-a7ac-98ec93042720" />
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 <div align="center">
