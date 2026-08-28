@@ -65,6 +65,14 @@ Focuses on "Agents for Amazon Bedrock" which integrate with internal systems via
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ### 🔵 Azure: Azure AI Foundry & Microsoft Agent Framework
 The unified platform for building and deploying high-quality AI agents and assistants (formerly Azure AI Studio).
+
+
+<img width="1094" height="1338" alt="Screenshot 2026-08-28 084432" src="https://github.com/user-attachments/assets/0330ea9d-f621-48dd-9ca4-13c54084bbbe" />
+
+<img width="716" height="1376" alt="image" src="https://github.com/user-attachments/assets/e5357fab-9284-497c-bfb5-911ea8fef276" />
+
+
+
 - **Repositories:** [Azure/azure-sdk-for-python (azure-ai-agents)](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/ai/azure-ai-agents) | [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
 - **Tools:** Azure AI Agent Service, Copilot Studio, Semantic Kernel integration.
 - **Key Strength:** Enterprise-grade security and deep integration with Microsoft 365 Copilots.
